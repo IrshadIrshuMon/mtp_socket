@@ -80,8 +80,3 @@ To remove compiled files:
 make clean
 ```
 
-## Authors
-
-- Yelisetty Karthikeya S M (21CS30060)
-- Vonteri Varshith Reddy (21CS10081)
-
